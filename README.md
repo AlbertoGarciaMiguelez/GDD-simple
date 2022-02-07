@@ -34,6 +34,8 @@
 
 10. Personajes
 
+11. Tecnologia
+
 ## Características básicas
 
 # Introducción
@@ -61,6 +63,8 @@ Llegas al mundo empresarial y tu misión será crear un imperio de la nada empez
 ### Controles y gameplay
 
 Clickeo constante y generación de oro automática en caso de ausencia. Con el oro deberas interactuar con la interfaz lo máximo posible para continuar clickeando y conseguir aún más cantidad de oro y así en bucle.
+
+Tus personajes comprados lucharan por oro, pero todo será de manera automática, tu puedes incentivar a un mayor producción de oro seleccionando a un personaje y clickeando sobre el producciendo mas oro.
 
 ## Mapas y Niveles
 
@@ -98,3 +102,7 @@ También se implementara un anuncio cuando alcanze unos números de clicks deter
 ## Personajes
 
 Se busca que el juego sea lo mas durativo posible, así que se implementaran 10 razas distintas que se convertiran en 100 porque tendrán un cambio de color implementado en la raza, así como una evolución en el nombre. Ejemplo: gran moco verde tiene la especie moco y alguna variante es moco rojo se convertirian en gelatina verde y gelatina roja.
+
+## Tecnologia
+
+Unity Technologies
