@@ -32,6 +32,8 @@
 
 9. Beneficios 
 
+10. Personajes
+
 ## Características básicas
 
 # Introducción
@@ -92,3 +94,7 @@ Sera relajante compuesta por Jordan Mompo.
 
 Los beneficios se conseguiran por implementación de anuncios para duplicadores de oro y de anuncio diario por entrar la primera vez. Así como poder anular los anuncios y micropagos para obtener más potenciadores o skins únicas.
 También se implementara un anuncio cuando alcanze unos números de clicks determinados.
+
+## Personajes
+
+Se busca que el juego sea lo mas durativo posible, así que se implementaran 10 razas distintas que se convertiran en 100 porque tendrán un cambio de color implementado en la raza, así como una evolución en el nombre. Ejemplo: gran moco verde tiene la especie moco y alguna variante es moco rojo se convertirian en gelatina verde y gelatina roja.
