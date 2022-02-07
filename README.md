@@ -60,7 +60,7 @@ Llegas al mundo empresarial y tu misión será crear un imperio de la nada empez
 
 ### Controles y gameplay
 
-Clickeo constante y generación de oro automática en caso de ausencia.
+Clickeo constante y generación de oro automática en caso de ausencia. Con el oro deberas interactuar con la interfaz lo máximo posible para continuar clickeando y conseguir aún más cantidad de oro y así en bucle.
 
 ## Mapas y Niveles
 
@@ -70,11 +70,11 @@ Empezara con un tutorial que durara menos de 2 minutos para enseñar al jugador 
 
 ###  Niveles y evolución
 
-Los niveles irán cambiando y la ambientación a medida que se vaya cambiando de especie. Cuando se llegue a la última especie el juego te dará la opción de seguir avanzando para puntuar en el ranking de mayor puntuaje o reiniciar para puntuar en el ranking de contrareloj.
+Los niveles costaran oro y cada nivel aumentara progresivamente el coste de oro. Cuando se llegue a la última especie el juego te dará la opción de seguir avanzando para puntuar en el ranking de mayor puntuaje o reiniciar para puntuar en el ranking de contrareloj.
 
 ### Ambientación
 
-Seguirán un mismo patrón  pero cambiara un poco el aspecto del mapa.
+La ambientación sera distinta a medida que se vaya cambiando de especie. Seguirán un mismo patrón  pero cambiara un poco el aspecto del mapa.
 
 ## Música y Sonido
 
