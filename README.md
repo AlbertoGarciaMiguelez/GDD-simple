@@ -74,7 +74,7 @@ Empezara con un tutorial que durara menos de 2 minutos para enseñar al jugador 
 
 ###  Niveles y evolución
 
-Los niveles costaran oro y cada nivel aumentara progresivamente el coste de oro. Cuando se llegue a la última especie el juego te dará la opción de seguir avanzando para puntuar en el ranking de mayor puntuaje o reiniciar para puntuar en el ranking de contrareloj.
+Los niveles costaran oro y cada nivel aumentara progresivamente el coste de oro. Subir de nivel proporcionara un aumento del la cantidad de oro que da el personaje. Y cambiar de especie permite avanzar para llegar al final del juego. Cuando se llegue a la última especie el juego te dará la opción de seguir avanzando para puntuar en el ranking de mayor puntuaje o reiniciar para puntuar en el ranking de contrareloj.
 
 ### Ambientación
 
