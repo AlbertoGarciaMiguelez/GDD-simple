@@ -13,29 +13,20 @@
 3. Historia
  
 4. Interfaz: Diagramas de flujo
-   1. Pantalla Inicio
-   2. Elección
-   3. Opciones
+   1. Pantalla de juego
+   2. Opciones
  
 5. Mecánicas en juego
-   1. Controles
-   2. Habilidades
-   3. PVE
-   4. Gameplay
-   5. Tecnología
+   1. Controles y gameplay
    
 6. Mapas y Niveles
    1.  Tutorial
-   2.  Mapa
-   3.  Niveles y evolución
+   2.  Niveles y evolución
+   3.  Ambientación
 
 7. Música y Sonido
    1. Efectos
-      1. Objectos
-      2. Ataques
-      3. Diálogos
-   2. Ciudades
-   3. Mapa
+   2. Música
 
 8. Arte del juego 
 
@@ -43,8 +34,7 @@
 
 # Introducción
 
-Khot es un juego incremental de clickers ambientado en un mundo de fantasía. Para moviles y PC. El juego tratara de conseguir todas las categorias de seres fantásticos posibles y hacer dinero con cada uno.
-
+Khot es un juego incremental de clickers. Para moviles y PC. El juego tratara de conseguir todas las categorias de seres fantásticos posibles y hacer dinero con cada uno.
 
 ## Equipo de diseñadores
 
@@ -61,4 +51,36 @@ Llegas al mundo empresarial y tu misión será crear un imperio de la nada empez
 
 ### Opciones
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD-simple/blob/main/img/opciones.PNG>
+
+## Mecánicas de juego
+
+### Controles y gameplay
+
+Clickeo constante y generación de oro automática en caso de ausencia.
+
+## Mapas y Niveles
+
+###  Tutorial
+
+Empezara con un tutorial que durara menos de 2 minutos para enseñar al jugador la interfaz y la compra de tu primer personaje.
+
+###  Niveles y evolución
+
+Los niveles irán cambiando y la ambientación a medida que se vaya cambiando de especie. Cuando se llegue a la última especie el juego te dará la opción de seguir avanzando para puntuar en el ranking de mayor puntuaje o reiniciar para puntuar en el ranking de contrareloj.
+
+### Ambientación
+
+Seguirán un mismo patrón  pero cambiara un poco el aspecto del mapa.
+
+## Música y Sonido
+
+### Efectos
+
+Cada personaje hará un ruido al clickear en el, cuando el ruido empiece hasta que no acabe de realizarse no se hará el siguiente, no es cuantitativo al número de clicks y se irá alternando con otros sonidos.
+
+### Música
+
+Sera relajante.
+
+## Arte del juego
 
