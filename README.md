@@ -7,7 +7,6 @@
 
 1. Características básicas
    1. Introducción
-   2. Descripción  
 
 2. Equipo de diseñadores.
 
