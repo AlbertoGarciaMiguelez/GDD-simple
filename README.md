@@ -80,7 +80,7 @@ Cada personaje hará un ruido al clickear en el, cuando el ruido empiece hasta q
 
 ### Música
 
-Sera relajante.
+Sera relajante compuesta por Jordan Mompo.
 
 ## Arte del juego
 
