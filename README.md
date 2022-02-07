@@ -30,6 +30,8 @@
 
 8. Arte del juego 
 
+9. Beneficios 
+
 ## Características básicas
 
 # Introducción
@@ -85,3 +87,7 @@ Sera relajante compuesta por Jordan Mompo.
 ## Arte del juego
 
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD-simple/blob/main/img/click.jpg>
+
+## Beneficios
+
+Los beneficios se conseguiran por implementación de anuncios para duplicadores de oro y de anuncio diario por entrar la primera vez. Así como poder anular los anuncios y micropagos para obtener más potenciadores o skins únicas.
