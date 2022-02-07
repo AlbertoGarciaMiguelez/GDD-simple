@@ -54,4 +54,6 @@ Juego indie por dos desarrolladores.
 
 ### Pantalla de juego
 <img src = https://github.com/AlbertoGarciaMiguelez/GDD-simple/blob/main/img/rapido.PNG>
+### Opciones
+<img src = https://github.com/AlbertoGarciaMiguelez/GDD-simple/blob/main/img/opciones.PNG>
 
