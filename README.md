@@ -91,3 +91,4 @@ Sera relajante compuesta por Jordan Mompo.
 ## Beneficios
 
 Los beneficios se conseguiran por implementación de anuncios para duplicadores de oro y de anuncio diario por entrar la primera vez. Así como poder anular los anuncios y micropagos para obtener más potenciadores o skins únicas.
+También se implementara un anuncio cuando alcanze unos números de clicks determinados.
