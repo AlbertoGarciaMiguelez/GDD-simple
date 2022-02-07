@@ -50,6 +50,10 @@ Khot es un juego incremental de clickers ambientado en un mundo de fantasía. Pa
 
 Juego indie por dos desarrolladores.
 
+## Historia
+
+Llegas al mundo empresarial y tu misión será crear un imperio de la nada empezando con tu amigo Gus una especie de gran moco verde.
+
 ## Interfaz: Diagrama de flujo
 
 ### Pantalla de juego
