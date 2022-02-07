@@ -84,3 +84,4 @@ Sera relajante.
 
 ## Arte del juego
 
+<img src = https://github.com/AlbertoGarciaMiguelez/GDD-simple/blob/main/img/click.jpg>
